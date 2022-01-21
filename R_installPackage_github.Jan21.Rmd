@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-############# install R packages
+############# install R packages to test github
 
 ```{r installPackages, echo=F}
 install.packages("readr")
